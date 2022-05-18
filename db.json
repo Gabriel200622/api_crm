@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "Codigo con Juan",
+      "email": "juan@juan.com",
+      "telefono": "38471894704914",
+      "notas": "Cliente recomendado por otro cliente",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "KarenDiseños",
+      "email": "karen@karen.com",
+      "telefono": "31515315315",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "BigGabo",
+      "empresa": "GabrielDiseños",
+      "email": "gabirel@gabriel.com",
+      "telefono": "219813193213",
+      "notas": "El mejor cliente",
+      "id": 3
+    },
+    {
+      "nombre": "Pedro",
+      "empresa": "PedroCompany",
+      "email": "pedro@pedro.com",
+      "telefono": "",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Edgar",
+      "empresa": "Codigo con Juan",
+      "email": "edgar@edgar.com",
+      "telefono": "930709175019",
+      "notas": "Recomendado por Juan",
+      "id": 6
+    }
+  ]
+}
